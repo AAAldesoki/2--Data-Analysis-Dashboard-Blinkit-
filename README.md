@@ -42,11 +42,6 @@ A comprehensive Power BI dashboard analyzing Blinkit's sales performance, produc
   - Supermarket Type 1 drives the majority of sales at `$787.5K` (accounting for 65% of total sales), with other outlet types contributing smaller proportions.
 <br/>
 <br/>
-## Dashboard : 
-
-
-<br/>
-<br/>
 
 ## Insights and Recommendations :
   #### 1.	Focus on High-Performing Categories:<br/>
