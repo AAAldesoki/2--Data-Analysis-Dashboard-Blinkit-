@@ -9,6 +9,17 @@ A comprehensive Power BI dashboard analyzing Blinkit's sales performance, produc
 <br/>
 <br/>
 
+## Dataset : 
+<a href="https://github.com/AAAldesoki/2--Data-Analysis-Dashboard-Blinkit-/blob/main/BlinkIT%20Grocery%20Data.xlsx" > Dataset </a>
+<br/>
+<br/>
+
+## Dashboard : 
+![2-blinkit Sales dashboard](https://github.com/user-attachments/assets/46b52ccb-3deb-4873-ba23-48a5166cf4c1)
+
+<br/>
+<br/>
+
 ## Key Highlights :
   #### 1.	Total Sales & Performance Overview:<br/>
   - Total sales amount to `$1.20M`, with an average sale of `$141` per transaction.<br/>
